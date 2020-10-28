@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-28T09:53:49.614Z" agent="5.0 (Windows)" etag="Rk7HhDcMBvPFsV7cYZ3X" version="13.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-28T10:00:00.166Z" agent="5.0 (Windows)" etag="gyn7SYph3eYGFi3tb0Zq" version="13.8.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1254" dy="742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -363,20 +363,14 @@
         <mxCell id="33V11vuJD2tzQU5ASd2x-293" value="加拿大" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1172.38" y="1227.5" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="33V11vuJD2tzQU5ASd2x-315" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="33V11vuJD2tzQU5ASd2x-294" target="33V11vuJD2tzQU5ASd2x-298">
+        <mxCell id="33V11vuJD2tzQU5ASd2x-386" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="33V11vuJD2tzQU5ASd2x-294" target="33V11vuJD2tzQU5ASd2x-306">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="33V11vuJD2tzQU5ASd2x-294" value="美国" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1172.38" y="1017.5" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="33V11vuJD2tzQU5ASd2x-326" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="33V11vuJD2tzQU5ASd2x-298" target="33V11vuJD2tzQU5ASd2x-306">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="33V11vuJD2tzQU5ASd2x-298" value="订单站点" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1285.13" y="992.5" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="33V11vuJD2tzQU5ASd2x-301" value="预定BL仓" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1411.13" y="1122.5" width="80" height="30" as="geometry" />
+          <mxGeometry x="1320" y="1122.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="33V11vuJD2tzQU5ASd2x-308" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="33V11vuJD2tzQU5ASd2x-306" target="33V11vuJD2tzQU5ASd2x-301">
           <mxGeometry relative="1" as="geometry" />
@@ -385,10 +379,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="33V11vuJD2tzQU5ASd2x-306" value="是否纯B站商品" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1411.13" y="992.5" width="80" height="80" as="geometry" />
+          <mxGeometry x="1320" y="992.5" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="33V11vuJD2tzQU5ASd2x-313" value="预定中山仓" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1538.13" y="1017.5" width="80" height="30" as="geometry" />
+          <mxGeometry x="1447" y="1017.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="33V11vuJD2tzQU5ASd2x-321" value="预定加拿大仓" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1285.13" y="1227.5" width="80" height="30" as="geometry" />
